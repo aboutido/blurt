@@ -1,0 +1,112 @@
+{
+  "title": "Space and the planets",
+  "questions": [
+    {
+      "type": "quiz",
+      "text": "Which is the largest planet in our solar system?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Earth"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Who was the first person to travel into space?",
+      "answers": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Valentina Tereshkova"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Roughly how long does sunlight take to reach Earth?",
+      "answers": [
+        "8 seconds",
+        "8 minutes",
+        "8 hours",
+        "8 days"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "type",
+      "text": "What is the name of our galaxy?",
+      "accepted": [
+        "Milky Way",
+        "The Milky Way"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "order",
+      "text": "Put these planets in order of size, smallest first.",
+      "items": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Earth"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "slider",
+      "text": "How many planets are there in our solar system?",
+      "min": 5,
+      "max": 12,
+      "step": 1,
+      "answer": 8,
+      "margin": 0,
+      "unit": "",
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "The Moon makes its own light.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 10,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Which is the closest star to Earth after the Sun?",
+      "answers": [
+        "Sirius",
+        "Polaris",
+        "Proxima Centauri",
+        "Betelgeuse"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    }
+  ]
+}

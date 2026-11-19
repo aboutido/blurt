@@ -1,0 +1,100 @@
+{
+  "title": "Blurt tour: every question type",
+  "questions": [
+    {
+      "type": "quiz",
+      "text": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Which of these are fruits? (more than one is right)",
+      "answers": [
+        "Tomato",
+        "Carrot",
+        "Apple",
+        "Potato"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "type",
+      "text": "What is the capital of France?",
+      "accepted": [
+        "Paris"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "order",
+      "text": "Put these planets in order, closest to the Sun first.",
+      "items": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "slider",
+      "text": "In which year did people first walk on the Moon?",
+      "min": 1950,
+      "max": 2000,
+      "step": 1,
+      "answer": 1969,
+      "margin": 2,
+      "unit": "",
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Water boils at 100°C at sea level.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": [
+        0
+      ],
+      "time": 10,
+      "points": "double"
+    },
+    {
+      "type": "poll",
+      "text": "Which question type did you like most?",
+      "answers": [
+        "Multiple choice",
+        "Type the answer",
+        "Put in order",
+        "Slider"
+      ],
+      "time": 20,
+      "points": "none"
+    },
+    {
+      "type": "cloud",
+      "text": "Describe this quiz in one word.",
+      "time": 30,
+      "points": "none"
+    }
+  ]
+}

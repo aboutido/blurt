@@ -1,0 +1,114 @@
+{
+  "title": "Mental maths sprint",
+  "questions": [
+    {
+      "type": "quiz",
+      "text": "7 × 8 = ?",
+      "answers": [
+        "54",
+        "56",
+        "63",
+        "64"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 15,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "What is 15% of 200?",
+      "answers": [
+        "15",
+        "20",
+        "30",
+        "35"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "144 ÷ 12 = ?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 15,
+      "points": "standard"
+    },
+    {
+      "type": "type",
+      "text": "What is 9 squared?",
+      "accepted": [
+        "81"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "slider",
+      "text": "What is half of 250?",
+      "min": 0,
+      "max": 250,
+      "step": 1,
+      "answer": 125,
+      "margin": 0,
+      "unit": "",
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "order",
+      "text": "Put these in order, smallest first.",
+      "items": [
+        "0.5",
+        "2/3",
+        "0.7",
+        "3/4"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "1000 − 457 = ?",
+      "answers": [
+        "543",
+        "553",
+        "457",
+        "643"
+      ],
+      "correct": [
+        0
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Which of these are prime numbers? (more than one is right)",
+      "answers": [
+        "7",
+        "9",
+        "11",
+        "15"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# One-click deploy on Render: https://render.com/deploy
+# The Starter plan is needed for the disk (homework results). Free instances
+# sleep when idle and have no disk, so games would load slowly and homework is off.
+services:
+  - type: web
+    name: blurt
+    runtime: node
+    plan: starter
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: DATA_DIR
+        value: /data
+      - key: TRUST_PROXY
+        value: "1"
+      - key: AI_API_KEY
+        sync: false
+    disk:
+      name: blurt-data
+      mountPath: /data
+      sizeGB: 1

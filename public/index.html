@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blurt</title>
+<meta name="description" content="A free, open source live quiz game. No accounts, no player limits.">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<main class="center">
+  <div class="logo">Blurt!</div>
+  <p class="tag">The free live quiz game. Put it on the big screen, everyone plays on their phone.</p>
+  <form id="join" class="stack" style="width:100%;max-width:320px">
+    <input id="pin" class="pin-input" inputmode="numeric" autocomplete="off" maxlength="7" placeholder="Game PIN" aria-label="Game PIN">
+    <button class="btn" type="submit">Join</button>
+  </form>
+  <p class="muted">or</p>
+  <div class="row" style="justify-content:center"><a class="btn ghost" href="/create">Make or host a quiz</a><a class="btn ghost" href="/library">Quiz library</a></div>
+  <p class="muted" style="font-size:13px;margin-top:30px">Open source. No accounts, no ads, no player limits.</p>
+</main>
+<script type="module" src="/index.js"></script>
+</body>
+</html>

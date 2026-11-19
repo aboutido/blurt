@@ -1,0 +1,65 @@
+{
+  "title": "Meeting icebreaker",
+  "questions": [
+    {
+      "type": "poll",
+      "text": "How's your week going?",
+      "answers": [
+        "Great",
+        "Busy but fine",
+        "Survival mode",
+        "Ask me on Friday"
+      ],
+      "time": 20,
+      "points": "none"
+    },
+    {
+      "type": "cloud",
+      "text": "One word for how you feel right now.",
+      "time": 30,
+      "points": "none"
+    },
+    {
+      "type": "poll",
+      "text": "Tea or coffee?",
+      "answers": [
+        "Tea",
+        "Coffee",
+        "Both",
+        "Neither"
+      ],
+      "time": 20,
+      "points": "none"
+    },
+    {
+      "type": "poll",
+      "text": "Best day of the week?",
+      "answers": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ],
+      "time": 20,
+      "points": "none"
+    },
+    {
+      "type": "poll",
+      "text": "Where do you do your best work?",
+      "answers": [
+        "At home",
+        "In the office",
+        "In a café",
+        "Anywhere with snacks"
+      ],
+      "time": 20,
+      "points": "none"
+    },
+    {
+      "type": "cloud",
+      "text": "What should we celebrate this week?",
+      "time": 30,
+      "points": "none"
+    }
+  ]
+}

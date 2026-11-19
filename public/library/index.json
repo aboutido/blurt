@@ -1,0 +1,69 @@
+[
+  {
+    "file": "tour.json",
+    "title": "Blurt tour: every question type",
+    "description": "One of every question type, to see what Blurt can do.",
+    "tags": [
+      "Start here"
+    ],
+    "questions": 8
+  },
+  {
+    "file": "space.json",
+    "title": "Space and the planets",
+    "description": "Planets, stars and the people who went up there.",
+    "tags": [
+      "Science",
+      "Kids"
+    ],
+    "questions": 8
+  },
+  {
+    "file": "capitals.json",
+    "title": "World capitals",
+    "description": "Capital cities, including a few that catch people out.",
+    "tags": [
+      "Geography"
+    ],
+    "questions": 8
+  },
+  {
+    "file": "animals.json",
+    "title": "Amazing animals",
+    "description": "Animal facts for all ages.",
+    "tags": [
+      "Kids",
+      "Nature"
+    ],
+    "questions": 9
+  },
+  {
+    "file": "science.json",
+    "title": "Science basics",
+    "description": "A quick tour of everyday science.",
+    "tags": [
+      "Science"
+    ],
+    "questions": 8
+  },
+  {
+    "file": "maths.json",
+    "title": "Mental maths sprint",
+    "description": "Quick mental maths. Speed counts.",
+    "tags": [
+      "Maths",
+      "Kids"
+    ],
+    "questions": 8
+  },
+  {
+    "file": "icebreaker.json",
+    "title": "Meeting icebreaker",
+    "description": "Polls and word clouds to warm up a meeting. No scores.",
+    "tags": [
+      "Work",
+      "Meetings"
+    ],
+    "questions": 6
+  }
+]

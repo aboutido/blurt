@@ -1,0 +1,111 @@
+{
+  "title": "Science basics",
+  "questions": [
+    {
+      "type": "quiz",
+      "text": "What is the chemical formula for water?",
+      "answers": [
+        "CO2",
+        "H2O",
+        "O2",
+        "NaCl"
+      ],
+      "correct": [
+        1
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Which gas do plants take in from the air to make food?",
+      "answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "type",
+      "text": "What is the chemical symbol for gold?",
+      "accepted": [
+        "Au"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "What is the hardest natural substance?",
+      "answers": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "slider",
+      "text": "How many bones are in the adult human body?",
+      "min": 150,
+      "max": 300,
+      "step": 1,
+      "answer": 206,
+      "margin": 5,
+      "unit": "",
+      "time": 20,
+      "points": "standard"
+    },
+    {
+      "type": "order",
+      "text": "Put these in order of size, smallest first.",
+      "items": [
+        "Atom",
+        "Cell",
+        "Mouse",
+        "Elephant"
+      ],
+      "time": 30,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Light travels faster than sound.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": [
+        0
+      ],
+      "time": 10,
+      "points": "standard"
+    },
+    {
+      "type": "quiz",
+      "text": "Which organ pumps blood around the body?",
+      "answers": [
+        "Lungs",
+        "Liver",
+        "Heart",
+        "Kidneys"
+      ],
+      "correct": [
+        2
+      ],
+      "time": 20,
+      "points": "standard"
+    }
+  ]
+}

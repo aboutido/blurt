@@ -1,0 +1,15 @@
+{
+  "name": "blurt",
+  "version": "0.2.1",
+  "description": "A free, open source live quiz game. Big screen for the host, phones for the players. No accounts, no player limits.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
